@@ -90,7 +90,6 @@ public class TestGenerator
         if (!found)
             throw new ValueError(val);
 
-        found = false;
         return classNum;
     }
 
